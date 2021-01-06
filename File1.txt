@@ -6,4 +6,7 @@ This is Change 2
 
 Bug Resolved through branch
 
+
 Change through master 
+
+Change made through idea branch
