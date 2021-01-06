@@ -1,10 +1,11 @@
 This is File 1
 
-This is Change 1
+This is Change 1 from bug
 
-This is Change 2
+This is Change 2 from bug
 
 Bug Resolved through branch
+
 
 
 Change through master 
@@ -12,3 +13,5 @@ Change through master
 Change made through idea branch
 
 Changed after stashing
+
+This is change 3 from bug123 stash
