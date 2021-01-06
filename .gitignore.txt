@@ -1,4 +1,4 @@
 *.class
 *.jar
 /temp/
-IgnoreFile.txt
+Ignored.txt
