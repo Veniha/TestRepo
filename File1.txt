@@ -10,3 +10,5 @@ Bug Resolved through branch
 Change through master 
 
 Change made through idea branch
+
+Changed after stashing
