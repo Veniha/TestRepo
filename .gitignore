@@ -1,0 +1,4 @@
+*.class
+*.jar
+/temp/
+Ignored.txt
